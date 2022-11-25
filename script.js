@@ -9,7 +9,7 @@ function removeItem(event) {
 
 button.addEventListener("click", (event) => {
     event.preventDefault();
-    const todo = input.value;
+    const todo = input.value + "  ";
 
     const item = document.createElement("li");
     item.textContent = todo;
