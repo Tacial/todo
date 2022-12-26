@@ -3,9 +3,7 @@ const input = document.querySelector("#text");
 const button = document.querySelector("#btn-add-todo");
 const list = document.querySelector("#todo-list");
 
-function removeItem(event) {
-    event.target.parentElement.remove();
-}
+function removeItem(event) { event.target.parentElement.remove(); }
 
 button.addEventListener("click", (event) => {
     event.preventDefault();
