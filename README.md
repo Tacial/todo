@@ -8,3 +8,6 @@ Neste projeto, fizemos um exercício criado no curso Venturus
 
 ## Tecnologias a Utilizadas
 Javascript
+
+# Acesso
+https://tacial.github.io/todo/
