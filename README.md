@@ -2,7 +2,7 @@
 To-Do list
 
 # Sobre o Projeto
-Neste projeto, fizemos um exercício criado no curso Venturus 
+Neste projeto, fizemos um exercício criado no curso interno Venturus 
 - instrutor Caique de Castro -
 23-11-2022
 
